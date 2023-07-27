@@ -1,0 +1,35 @@
+.banner h1 {
+    font-size: 32px;
+    color:white;
+    padding: 1em ;
+
+}
+.banner .wrap{
+    background-color: rgb(1, 94, 29);
+}
+
+.banner p{ 
+    font-size: 16px;
+}
+
+.banner form {
+    display:block;
+}
+
+.banner form input[type=text]{
+    width: 25vw;
+    margin-top: 20px;
+}
+
+.banner form input[type=submit]{
+    background-color: rgb(1, 94, 29);
+    border: 1px solid white;
+    font-size: 16px;
+    color:white;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+.banner .small { 
+    margin-top: 20px;
+}
